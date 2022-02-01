@@ -45,14 +45,14 @@ namespace The_Second_Lab
     }
     public class Officer : Person
     {
-        string dolj;
-        public Officer(string name, string dolj) : base(name)
+        string post;
+        public Officer(string name, string post) : base(name)
         {
-            this.dolj = dolj;
+            this.post = post;
         }
         public string GetPost()
         {
-            return dolj;
+            return post;
         }
     }
     public class HR_Officer : Officer, Contact
@@ -65,9 +65,9 @@ namespace The_Second_Lab
         {
             return new Student(nameS, grup);
         }
-        public Teacher GetContPr(string namePr, teacher dolj)
+        public Teacher GetContPr(string namePr, teacher post)
         {
-            return new Teacher(namePr, dolj);
+            return new Teacher(namePr, post);
         }
     }
     public enum teacher
