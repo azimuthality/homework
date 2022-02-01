@@ -1,0 +1,7 @@
+C:\Users\enigma\source\repos\The Second Lab\bin\Debug\The Second Lab.exe.config
+C:\Users\enigma\source\repos\The Second Lab\bin\Debug\The Second Lab.exe
+C:\Users\enigma\source\repos\The Second Lab\bin\Debug\The Second Lab.pdb
+C:\Users\enigma\source\repos\The Second Lab\obj\Debug\The Second Lab.csproj.AssemblyReference.cache
+C:\Users\enigma\source\repos\The Second Lab\obj\Debug\The Second Lab.csproj.CoreCompileInputs.cache
+C:\Users\enigma\source\repos\The Second Lab\obj\Debug\The Second Lab.exe
+C:\Users\enigma\source\repos\The Second Lab\obj\Debug\The Second Lab.pdb
